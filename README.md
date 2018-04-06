@@ -1,2 +1,2 @@
 # pradyprojects
-Development Trial projects
+Development Trial projects for fun
